@@ -16,6 +16,7 @@ const App = () => {
             <NavLink to="about">About</NavLink>
           </div>
         </nav>
+        <br />
       </main>
       <Routes>
         <Route index element={<Home />} />
